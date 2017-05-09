@@ -1,0 +1,27 @@
+#centr{
+	text-align: center;
+	color: #00e5ee;
+}
+#centr1{
+	text-align: center;
+	color:  #ff7f24;
+}
+.div1{
+	width: 1240px;
+	height: 600px;
+	border: solid 5px blue;
+	background-image: url(http://histori.rusin.org.ua/images/oblaka-kamikadze.jpg);
+}
+#fon{
+	background-color: #8deeee;
+}
+.textcenter{
+	text-align: center;
+	font-family: Times, serif;
+	font-size: 25pt;
+}
+.div2{
+	width: 500px;
+	height: 300px;
+	border: double 2px green;
+};
